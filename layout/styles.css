@@ -1,0 +1,15 @@
+body {background: #d6eaf8;
+      background-image: url("ук.jpg");}
+
+.card { 
+    width: 100%; /* Ширина */
+    padding: 30px; /* Поля */
+    }
+
+@font-face {
+	font-family: Regular;
+    src: url('fonts/19694.ttf');
+}
+h1{
+    font-family: Regular;
+}
